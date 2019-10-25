@@ -28,6 +28,7 @@ Command used to view the previously executed commands
 # Using up and down arrow for history
 
 # Repository
+Where all the information is stored, is commonly reffered to as the remote
 # Clone
 # Fork
 # Branch
