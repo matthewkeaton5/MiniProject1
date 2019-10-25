@@ -29,6 +29,8 @@ Serves as a repository for a users personal files
 # File paths in linux
 Also called directory trees that are used to organize files
 # Using the tab key to complete file paths
+The shell will automaticall fill in the rest or show you the available options
+you can type
 # Using up and down arrow for history
 
 # Repository
