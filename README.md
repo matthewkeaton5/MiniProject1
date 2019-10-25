@@ -31,7 +31,9 @@ Also called directory trees that are used to organize files
 # Using the tab key to complete file paths
 The shell will automaticall fill in the rest or show you the available options
 you can type
-# Using up and down arrow for history
+#Using up and down arrow for history
+If you have to repeat yourself multiple times, up arrow is less recent, down
+arrow is more recent history.
 
 # Repository
 Where all the information is stored and is commonly referred to as a remote
