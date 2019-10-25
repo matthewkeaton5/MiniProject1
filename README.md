@@ -25,6 +25,7 @@ A command line that moves files or diretories from one place to another.
 # Using up and down arrow for history
 
 # Repository
+Where all the information is stored and is commonly referred to as a remote
 # Clone
 # Fork
 # Branch
