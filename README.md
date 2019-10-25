@@ -27,6 +27,7 @@ Command used to view the previously executed commands
 # Home Directory
 Serves as a repository for a users personal files
 # File paths in linux
+Also called directory trees that are used to organize files
 # Using the tab key to complete file paths
 # Using up and down arrow for history
 
