@@ -1,7 +1,8 @@
 # MiniProject1
-# Mini Project with Kapil Sathyakuma
+# Mini Project with Kapil Sathyakumar
 # Git
-
+Git can be helpful with productivity and competitiveness of a company,hence it can keep track of each every version of your code. For example, git can revert
+code files back to their previous state. Compare code changes over specific period of time.Find who last modified a piece of code that might be causing an issue or a problem, and much more. This can save time and resources for a company.   
 # Docker
 # Automated Testing
 # Continuous integration
