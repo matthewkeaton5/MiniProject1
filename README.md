@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MiniProject1
 Mini Project with Kapil Sathyakuma
 Git
@@ -8,7 +9,6 @@ Continuous integration
 cd
 mkdir
 cp
-pwd
 mv
 rm
 history
@@ -28,4 +28,3 @@ Push
 Pull
 Remoate Add/Remove/Show
 Status
-Master Branch
