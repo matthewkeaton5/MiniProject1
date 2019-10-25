@@ -23,12 +23,13 @@ command line
 # history
 Command used to view the previously executed commands
 # Home Directory
+Serves as a repository for a users personal files
 # File paths in linux
 # Using the tab key to complete file paths
 # Using up and down arrow for history
 
 # Repository
-Where all the information is stored, is commonly reffered to as the remote
+Where all the information is stored and is commonly referred to as a remote
 # Clone
 'git clone' is used to pull an entire git repository onto the local computer, the master branch is taken be default
 # Fork
