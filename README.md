@@ -13,7 +13,9 @@ The command used to create new directories
 # cp
 Stands for copy, used to copy filed or directory
 # pwd
+Command line utility for printing current working directory
 # mv
+
 # rm
 # history
 # Home Directory
