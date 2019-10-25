@@ -11,6 +11,7 @@ The command CD changes directories and allows us to work in different settings
 # mkdir
 The command used to create new directories
 # cp
+Stands for copy, used to copy filed or directory
 # pwd
 # mv
 # rm
