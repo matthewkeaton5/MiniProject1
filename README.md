@@ -1,5 +1,4 @@
-# MiniProject1
-# Mini Project with Kapil Sathyakuma
+# MiniProject1 with Kapil Sathyakuma
 # Git
 
 # Docker
