@@ -30,6 +30,7 @@ Command used to view the previously executed commands
 # Repository
 Where all the information is stored, is commonly reffered to as the remote
 # Clone
+'git clone' is used to pull an entire git repository onto the local computer, the master branch is taken be default
 # Fork
 # Branch
 # Commit
