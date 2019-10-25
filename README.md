@@ -30,6 +30,7 @@ Serves as a repository for a users personal files
 # Using up and down arrow for history
 
 # Repository
+Where all the information is stored and is commonly referred to as a remote
 # Clone
 # Fork
 # Branch
