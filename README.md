@@ -8,6 +8,7 @@
 # cd
 # mkdir
 # cp
+# pwd
 # mv
 # rm
 # history
@@ -27,3 +28,4 @@
 # Pull
 # Remoate Add/Remove/Show
 # Status
+# Master Branch
