@@ -15,6 +15,7 @@ Stands for copy, used to copy filed or directory
 # pwd
 Command line utility for printing current working directory
 # mv
+A command line that moves files or diretories from one place to another.
 
 # rm
 # history
