@@ -18,6 +18,8 @@ Command line utility for printing current working directory
 A command line that moves files or diretories from one place to another.
 
 # rm
+utility that attemptys to remove the non-directory type files specified on the
+command line
 # history
 # Home Directory
 # File paths in linux
