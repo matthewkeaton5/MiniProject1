@@ -1,11 +1,13 @@
 # MiniProject1
 # Mini Project with Kapil Sathyakuma
 # Git
+
 # Docker
 # Automated Testing
 # Continuous integration
 
 # cd
+The command CD changes directories and allows us to work in different settings
 # mkdir
 # cp
 # pwd
@@ -26,6 +28,6 @@
 # Checkout
 # Push
 # Pull
-# Remoate Add/Remove/Show
+# Remote Add/Remove/Show
 # Status
 # Master Branch
