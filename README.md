@@ -23,6 +23,7 @@ command line
 # history
 Command used to view the previously executed commands
 # Home Directory
+Serves as a repository for a users personal files
 # File paths in linux
 # Using the tab key to complete file paths
 # Using up and down arrow for history
