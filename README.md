@@ -56,4 +56,5 @@ The opposite of push allows for the local to be updated by the remote
 # Remote Add/Remove/Show
 Add: creates a new name for a branch on the repository by default it is origin. Remove: Disconnects the remote from the local. Show: prints one or more objects
 # Status
+allows you to see the staging area of the working directory, it does not however show the committed project history
 # Master Branch
