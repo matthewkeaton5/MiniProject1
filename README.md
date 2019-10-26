@@ -38,7 +38,7 @@ arrow is more recent history.
 # Repository
 Where all the information is stored and is commonly referred to as a remote
 # Clone
-'git clone' is used to pull an entire git repository onto the local computer, the master branch is taken be default
+git clone is used to pull an entire git repository onto the local computer, the master branch is taken be default
 # Fork
 A fork is a copy of the repository which allows you to change the code without changing the code on the master branch
 # Branch
@@ -48,6 +48,7 @@ Commiting code allows you to save your changes on the local system. This will no
 # Merge
 combines multiple groups of commits into one history, the primary use of this is to combine 2 or more branches into the master branch
 # Checkout
+allows for target entities to be switched i.e files, commits, and branches
 # Push
 # Pull
 # Remote Add/Remove/Show
