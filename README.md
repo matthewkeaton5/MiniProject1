@@ -42,6 +42,7 @@ Where all the information is stored and is commonly referred to as a remote
 # Fork
 A fork is a copy of the repository which allows you to change the code without changing the code on the master branch
 # Branch
+branching allows you to make edits to the code at different times in the process, meaning after you make a commit you can add this to a new branch and continue work without affecting the primary version of the code 
 # Commit
 # Merge
 # Checkout
