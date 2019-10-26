@@ -6,8 +6,10 @@ code files back to their previous state. Compare code changes over specific peri
 Docker facilitates faster soft ware delivery. This can render to cost savings
 because it increases productivity of the company's software engineers.
 # Automated Testing
+allows for faster more reliable results, also increases the informational security by limiting the ammount of people with access to the information of the project.
 # Continuous integration
-
+Allows multiple developers to do their work independently and maximizes efficiency across the board. Using the free software such as git to assist in these endeavors is something
+that most companies should want to do simply because there is very little downside.
 # cd
 The command CD changes directories and allows us to work in different settings
 # mkdir
