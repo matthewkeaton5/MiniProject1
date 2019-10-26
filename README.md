@@ -58,3 +58,4 @@ Add: creates a new name for a branch on the repository by default it is origin. 
 # Status
 allows you to see the staging area of the working directory, it does not however show the committed project history
 # Master Branch
+The master branch is the latest working version of the code. It is also the default for many other features.
