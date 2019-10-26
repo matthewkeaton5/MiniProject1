@@ -50,6 +50,7 @@ combines multiple groups of commits into one history, the primary use of this is
 # Checkout
 allows for target entities to be switched i.e files, commits, and branches
 # Push
+Uploads the local repository to the remote and automatically attempts to apply the changes made
 # Pull
 # Remote Add/Remove/Show
 # Status
