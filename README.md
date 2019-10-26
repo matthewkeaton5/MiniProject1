@@ -40,6 +40,7 @@ Where all the information is stored and is commonly referred to as a remote
 # Clone
 'git clone' is used to pull an entire git repository onto the local computer, the master branch is taken be default
 # Fork
+A fork is a copy of the repository which allows you to change the code without changing the code on the master branch
 # Branch
 # Commit
 # Merge
