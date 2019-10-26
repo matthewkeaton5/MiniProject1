@@ -46,6 +46,7 @@ branching allows you to make edits to the code at different times in the process
 # Commit
 Commiting code allows you to save your changes on the local system. This will not have any effect on the remote until it is pushed
 # Merge
+combines multiple groups of commits into one history, the primary use of this is to combine 2 or more branches into the master branch
 # Checkout
 # Push
 # Pull
