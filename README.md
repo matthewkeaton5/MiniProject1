@@ -44,6 +44,7 @@ A fork is a copy of the repository which allows you to change the code without c
 # Branch
 branching allows you to make edits to the code at different times in the process, meaning after you make a commit you can add this to a new branch and continue work without affecting the primary version of the code 
 # Commit
+Commiting code allows you to save your changes on the local system. This will not have any effect on the remote until it is pushed
 # Merge
 # Checkout
 # Push
