@@ -54,5 +54,6 @@ Uploads the local repository to the remote and automatically attempts to apply t
 # Pull
 The opposite of push allows for the local to be updated by the remote
 # Remote Add/Remove/Show
+Add: creates a new name for a branch on the repository by default it is origin. Remove: Disconnects the remote from the local. Show: prints one or more objects
 # Status
 # Master Branch
