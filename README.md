@@ -52,6 +52,7 @@ allows for target entities to be switched i.e files, commits, and branches
 # Push
 Uploads the local repository to the remote and automatically attempts to apply the changes made
 # Pull
+The opposite of push allows for the local to be updated by the remote
 # Remote Add/Remove/Show
 # Status
 # Master Branch
